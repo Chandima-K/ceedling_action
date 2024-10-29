@@ -7,7 +7,7 @@ inputs:
   test_directory:
     description: "path to the directory with ceedling tests inside the repository"
     required: false
-    default: "/Source Code/Application/firmware/"
+    default: "/Source\ Code/Application/firmware/"
   arguments:
     description: "ceedling arguments"
     required: false
